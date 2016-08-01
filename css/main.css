@@ -1,0 +1,82 @@
+*{
+	font-family: 'Ubuntu', sans-serif;
+}
+.bckd{
+background-size: 100%;
+}
+.ppt{/*Purple text*/
+	color:#8000FF;
+}
+#bkdimg{
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-top: 30px;
+	margin-bottom: 100px;
+}
+#logo{
+	margin-left: 46%;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.tp{
+	font-size: 59px;
+	margin-bottom: 100px;
+	color:white;
+}
+.tp1{font-size: 34px;
+	color:#CECEF6;
+	margin-bottom: 30px;
+}
+nav {
+	margin-left: 30%;
+	color:black;
+	margin-top: 34px;
+}
+nav a{
+	margin: 20px;
+	text-decoration: none;
+}
+#tile1{/*ABOUT ME backgrpund */
+background-image: url("../images/tile1.png");
+}
+#tile2{/*CONTACT ME background*/
+	background-image: url("../images/tile2.png");
+}
+#profile{
+	width: 30%;
+	border-radius: 50px;
+	float:left;
+	margin:30px 20px 100px 40px;
+}
+#pp{
+	margin-top: 6%;
+	margin-right: 2%;
+	text-align: justify;
+}
+.ft{
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+.tl{
+	margin-top: 20px;
+}
+.fimgs{
+	width: 200px;
+	height: 150px;
+	margin: 20px 0px;
+	border-radius: 50%;
+	border: 1px solid gray;
+	padding: 2px;
+}
+
+h2{
+	margin-top: 40px;
+}
+.icons{
+	width: 5%;
+	margin: 10px;
+}
+.foot{
+	margin-left: 39%;
+}
